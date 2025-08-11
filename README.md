@@ -2,7 +2,9 @@
 Cleaner tools for Linux Debian. Clean apt cache. Removing old config files. Removing old kernels. Emptying every trashes
 
 $ git clone https://github.com/spyschools/clean-linux-system.git
+
 $ cd clean-linux-system
+
 $ chmod +x clean_system.sh
 
 # Real cleanup
