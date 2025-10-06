@@ -12,4 +12,4 @@ $ sudo ./clean_system.sh --dry-run
 # Real cleanup
 $ sudo ./clean_system.sh          
 
-# for the root system : https://github.com/spyschools/clean-linux-system-root
+# Tools for the root system : https://github.com/spyschools/clean-linux-system-root
