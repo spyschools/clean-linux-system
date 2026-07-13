@@ -22,7 +22,7 @@ Automate your system maintenance with a single script — remove clutter, free u
 ```bash
 $ git clone https://github.com/spyschools/clean-linux-system.git
 $ cd clean-linux-system
-$ chmod +x clean_system.sh
+$ sudo chmod +x *
 ```
 
 ### Usage
